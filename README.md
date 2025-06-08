@@ -28,6 +28,8 @@ This project is an automated testing framework for the **OrangeHRM Leave Managem
 
 ## 📁 Project Structure
 
+
+
 qa-automation/
 ├── src/
 │ ├── main/
@@ -52,6 +54,8 @@ qa-automation/
 ├── reports/
 │ └── ExtentReport.html
 └── README.md
+
+
 
 
 ## ▶️ How to Run the Project
