@@ -30,8 +30,9 @@ This project is an automated testing framework for the **OrangeHRM Leave Managem
 
 qa-automation/
 ├── src/
-│ ├── main/java/
-│ │ ├── orangehrm/
+│ ├── main/
+│ │ ├── java/
+│ │ │ └── orangehrm/
 │ │ │ ├── abstractcomponent/
 │ │ │ │ └── AbstractComponent.java
 │ │ │ ├── pageobjects/
@@ -40,19 +41,18 @@ qa-automation/
 │ │ │ │ └── LandingPage.java
 │ │ └── resources/
 │ │ └── GlobalData.properties
-│
-│ └── test/java/
+│ └── test/
+│ └── java/
 │ └── tests/
 │ ├── ApplyLeaveTest.java
 │ ├── CancelLeaveTest.java
 │ └── LoginTest.java
-│
 ├── testng.xml
 ├── pom.xml
 ├── reports/
 │ └── ExtentReport.html
 └── README.md
----
+
 
 ## ▶️ How to Run the Project
 
